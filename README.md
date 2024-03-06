@@ -5,6 +5,13 @@ Author: Jordan Nieusma
 Paper Citation: 
 Oquab, M., Darcet, T., Moutakanni, T., Vo, H., Szafraniec, M., Khalidov, V., Fernandez, P., Haziza, D., Massa, F., El-Nouby, A., Assran, M., Ballas, N., Galuba, W., Howes, R., Huang, P.-Y., Li, S.-W., Misra, I., Rabbat, M., Sharma, V., … Bojanowski, P. (2024). DINOv2: Learning Robust Visual Features without Supervision (arXiv:2304.07193). arXiv. http://arxiv.org/abs/2304.07193
 
+This repo contains presentation materials on my review of the DINOv2 research paper published by Meta AI. 
+
+Contents:
+
+- presentation.ipynb, which provides my discussion of the paper
+- code_demo.ipynb, which provides demo code to run the DINOv2 model for image classification via HuggingFace
+
 
 ## Resources
 
